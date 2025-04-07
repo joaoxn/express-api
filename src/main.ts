@@ -1,7 +1,5 @@
 import express from 'express';
 
-import * as http from 'http';
-import * as url from 'url';
 import {get} from "oop-units-converter";
 
 

@@ -12,7 +12,8 @@
   "description": "",
   "dependencies": {
     "express": "^5.1.0",
-    "nodemon": "^3.1.9"
+    "nodemon": "^3.1.9",
+    "oop-units-converter": "^2.0.4"
   },
   "devDependencies": {
     "@types/express": "^5.0.1",
